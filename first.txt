@@ -3,3 +3,4 @@
 3.git addとgit commitを習う
 4.git rmを習う
 5.git status
+6.git diff
