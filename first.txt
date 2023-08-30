@@ -2,3 +2,4 @@
 2.基本的なワークフローを学びます
 3.git addとgit commitを習う
 4.git rmを習う
+5.git status
